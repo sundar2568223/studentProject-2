@@ -1,0 +1,15 @@
+C:\Users\yaram\OneDrive\Desktop\simply learn\Projects\StudentSearchingandSorting\StudentSearchingandSorting\bin\Debug\net7.0\StudentSearchingandSorting.exe
+C:\Users\yaram\OneDrive\Desktop\simply learn\Projects\StudentSearchingandSorting\StudentSearchingandSorting\bin\Debug\net7.0\StudentSearchingandSorting.deps.json
+C:\Users\yaram\OneDrive\Desktop\simply learn\Projects\StudentSearchingandSorting\StudentSearchingandSorting\bin\Debug\net7.0\StudentSearchingandSorting.runtimeconfig.json
+C:\Users\yaram\OneDrive\Desktop\simply learn\Projects\StudentSearchingandSorting\StudentSearchingandSorting\bin\Debug\net7.0\StudentSearchingandSorting.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\Projects\StudentSearchingandSorting\StudentSearchingandSorting\bin\Debug\net7.0\StudentSearchingandSorting.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn\Projects\StudentSearchingandSorting\StudentSearchingandSorting\obj\Debug\net7.0\StudentSearchingandSorting.csproj.AssemblyReference.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Projects\StudentSearchingandSorting\StudentSearchingandSorting\obj\Debug\net7.0\StudentSearchingandSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaram\OneDrive\Desktop\simply learn\Projects\StudentSearchingandSorting\StudentSearchingandSorting\obj\Debug\net7.0\StudentSearchingandSorting.AssemblyInfoInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Projects\StudentSearchingandSorting\StudentSearchingandSorting\obj\Debug\net7.0\StudentSearchingandSorting.AssemblyInfo.cs
+C:\Users\yaram\OneDrive\Desktop\simply learn\Projects\StudentSearchingandSorting\StudentSearchingandSorting\obj\Debug\net7.0\StudentSearchingandSorting.csproj.CoreCompileInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Projects\StudentSearchingandSorting\StudentSearchingandSorting\obj\Debug\net7.0\StudentSearchingandSorting.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\Projects\StudentSearchingandSorting\StudentSearchingandSorting\obj\Debug\net7.0\refint\StudentSearchingandSorting.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\Projects\StudentSearchingandSorting\StudentSearchingandSorting\obj\Debug\net7.0\StudentSearchingandSorting.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn\Projects\StudentSearchingandSorting\StudentSearchingandSorting\obj\Debug\net7.0\StudentSearchingandSorting.genruntimeconfig.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Projects\StudentSearchingandSorting\StudentSearchingandSorting\obj\Debug\net7.0\ref\StudentSearchingandSorting.dll
